@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box ;
+}
+input{
+    border: none;
+    color:inherit;
+    font-weight: inherit;
+    font-family: inherit;
+}
